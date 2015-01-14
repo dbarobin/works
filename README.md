@@ -38,7 +38,7 @@
 
 ## 个人博客 ##
 
-> 基于 GitHub Pages，主题使用 So Simple Theme，域名从GoDaddy申请，采用DNSPod解析域名，使用安全宝加速网站。
+> 基于 GitHub Pages，主题使用 So Simple Theme，域名从 GoDaddy 申请，采用 DNSPod 解析域名，使用安全宝加速网站。
 
 > 博客地址：http://dbarobin.com
 
@@ -56,7 +56,7 @@
 
 ## Python 自动化部署 ##
 
-> Python 自动化部署，本机只需执行脚本，远程即可自动部署。脚本采用Python编写，远程调用使用Fabric实现。
+> Python 自动化部署，本机只需执行脚本，远程即可自动部署。脚本采用 Python 编写，远程调用使用 Fabric 实现。
 
 > 项目地址：https://github.com/dbarobin/python-auto-deploy
 
@@ -64,7 +64,7 @@
 
 > 学习以及工作中编写的脚本。
 
-> 项目地址：https://github.com/dbarobin/python-auto-deploy
+> 项目地址：https://github.com/dbarobin/tools
 
 ## 配置文件集合 ##
 
